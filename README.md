@@ -3,7 +3,7 @@
 Projeto desenvolvido no **Intensivão JavaScript (Hashtag Treinamentos)**. Foco em manipulação do **DOM** e lógica sem frameworks.  
 
 🚀 Tecnologias
-**HTML
+*HTML
 **CSS
 **JS
 
